@@ -1,4 +1,4 @@
-const stringExample = "참깨빵위에 순쇠고기 패티 두장 특별한 소스 양상추"
+const stringExample = "참깨빵위에 순쇠고기 패티 두장 특별한 소스 "
 
 function splitString(stringParams) {
   //split 공백을 기준으로 판단함
